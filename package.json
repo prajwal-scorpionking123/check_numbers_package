@@ -1,0 +1,19 @@
+{
+  "name": "check_numbers_package",
+  "version": "1.0.0",
+  "description": "Check all the numbers type",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwal-scorpionking123/check_numbers_package.git"
+  },
+  "author": "Prajwal Patil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/prajwal-scorpionking123/check_numbers_package/issues"
+  },
+  "homepage": "https://github.com/prajwal-scorpionking123/check_numbers_package#readme"
+}
