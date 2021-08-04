@@ -1,0 +1,19 @@
+{
+  "name": "check_numbers",
+  "version": "1.0.0",
+  "description": "You check the even odd palindrome etc numbers here",
+  "main": "check_numbers.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prajwal Patil",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/prajwal-scorpionking123/check_numbers_package.git"
+  },
+  "bugs": {
+    "url": "https://github.com/prajwal-scorpionking123/check_numbers_package/issues"
+  },
+  "homepage": "https://github.com/prajwal-scorpionking123/check_numbers_package#readme"
+}
